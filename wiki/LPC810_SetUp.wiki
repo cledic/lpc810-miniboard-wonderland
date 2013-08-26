@@ -1,0 +1,6 @@
+#Setup for LPC810 miniboar is a simple thing!
+
+= Setup for LPC810 miniboar is a simple thing! =
+
+. My setup is very simple: LPCXpresso v5.2.4 and FlashMagic!
+Easy to use, LPCXpresso is a mature product. Simple and fast to use. With this type of MCU: little, low resurce, is an ideal tool to use.
