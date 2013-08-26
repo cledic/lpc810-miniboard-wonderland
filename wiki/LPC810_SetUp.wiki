@@ -4,3 +4,6 @@
 
 . My setup is very simple: LPCXpresso v5.2.4 and FlashMagic!
 Easy to use, LPCXpresso is a mature product. Simple and fast to use. With this type of MCU: little, low resurce, is an ideal tool to use.
+
+[http://www.lpcware.com/content/tools/code-red-lpcxpresso LPCXpresso]
+[http://www.lpcware.com/content/nxpfile/lpc2000-philips-flash-utility-tool Flash Utility]
